@@ -26,6 +26,7 @@ public class HomeLoan {
 	{
 		//Selenium
 		System.out.println("Selenium webHomeLogin cases");
+		System.out.println("Selenium webHomeLogin cases 1");
 	}
 	
 	@Test
