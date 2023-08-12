@@ -21,6 +21,7 @@ public class CarLoan {
 	{
 		//Selenium
 		System.out.println("Selenium webCarLogin cases");
+		System.out.println("Selenium webCarLogin cases 2");
 	}
 	
 	@Test
